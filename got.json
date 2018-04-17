@@ -1,0 +1,41 @@
+{"id":1,"name":"Tyrion","surname":"Lannister","gender":"male","born":273,"height":1.0,"bynames":["Imp"]}
+{"id":2,"name":"Cersei","surname":"Lannister","gender":"female","born":266,"height":1.8,"bynames":["Light of the West"]}
+{"id":3,"name":"Daenerys","surname":"Targaryen","gender":"female","born":284,"height":1.5,"bynames":["Stormborn","Mother of Dragons","The Silver Queen","The Unburnt","Mhysa","Breaker of Chains","Khaleesi"]}
+{"id":4,"name":"Jon","surname":"Snow","gender":"male","born":284,"height":1.8,"bynames":["Lord Snow","The Bastard of Winterfell","Lord Crow","King Crow","The White Wolf"]}
+{"id":5,"name":"Sansa","surname":"Stark","gender":"female","born":286,"height":2.0,"bynames":["Little bird"]}
+{"id":6,"name":"Arya","surname":"Stark","gender":"female","born":289,"height":0.8,"bynames":[]}
+{"id":7,"name":"Jaime","surname":"Lannister","gender":"male","born":266,"height":2.2,"bynames":["The Kingslayer","The Lion of Lannister"]}
+{"id":8,"name":"Jorah","surname":"Mormont","gender":"male","born":254,"height":2.0,"bynames":["Jorah the Andal"]}
+{"id":9,"name":"Theon","surname":"Greyjoy","gender":"male","born":283,"height":1.6,"bynames":["Prince of Winterfell","Ghost of Winterfell","Theon Turncloak","Reek"]}
+{"id":10,"name":"Samwell","surname":"Tarly","gender":"male","born":284,"height":1.7,"bynames":["Sam the Slayer"]}
+{"id":11,"name":"Varys","surname":"","gender":"male","born":267,"height":1.6,"bynames":["Spider"]}
+{"id":12,"name":"Petyr","surname":"Baelish","gender":"male","born":268,"height":1.6,"bynames":["Little Finger"]}
+{"id":13,"name":"Brienne","surname":"Tas","gender":"female","born":276,"height":2.1,"bynames":["Maid of Tarth","Brienne the beauty"]}
+{"id":14,"name":"Brandon","surname":"Stark","gender":"male","born":290,"height":0.9,"bynames":["Bran"]}
+{"id":15,"name":"Bronn","surname":"","gender":"male","born":264,"height":1.7,"bynames":["Ser Bronn of the Blackwater"]}
+{"id":16,"name":"Davos","surname":"Seaworth","gender":"male","born":259,"height":1.8,"bynames":["Onion Knight"]}
+{"id":17,"name":"Sandor","surname":"Clegane","gender":"male","born":271,"height":2.4,"bynames":["Hound"]}
+{"id":18,"name":"Missandei","surname":"","gender":"female","born":287,"height":1.5,"bynames":[""]}
+{"id":19,"name":"Tywin","surname":"Lannister","gender":"male","born":242,"height":1.8,"bynames":["The Lion of Lannister","The Old Lion","The Great Lion of the Rock)"]}
+{"id":20,"name":"Joffrey","surname":"Baratheon","gender":"male","born":286,"height":1.4,"bynames":["Aerys the Third","The Young Usurper"]}
+{"id":21,"name":"Margaery","surname":"Tyrell","gender":"female","born":283,"height":1.6,"bynames":["The Little Queen"]}
+{"id":22,"name":"Catelyn","surname":"Stark","gender":"female","born":264,"height":1.7,"bynames":["Cat","Lady Stoneheart"]}
+{"id":23,"name":"Tommen","surname":"Baratheon","gender":"male","born":291,"height":1.3,"bynames":["The Boy King"]}
+{"id":24,"name":"Stannis","surname":"Baratheon","gender":"male","born":264,"height":1.8,"bynames":[""]}
+{"id":25,"name":"Tormund","surname":"Giantsbane","gender":"male","born":270,"height":2.0,"bynames":["Thunderfist","Self-Styled Tall-Talker","Horn-blower","Breaker of Ice","Husband to Bears","the Mead-king of Ruddy Hall","Speaker to Gods and Father of Hosts"]}
+{"id":26,"name":"Robb","surname":"Stark","gender":"male","born":283,"height":1.7,"bynames":["King in the North","King of the Trident","The Young Wolf","The King Who Lost the North"]}
+{"id":27,"name":"Daario","surname":"Naharis","gender":"male","born":282,"height":1.9,"bynames":[""]}
+{"id":28,"name":"Gilly","surname":"","gender":"female","born":290,"height":1.5,"bynames":[""]}
+{"id":29,"name":"Ramsay","surname":"Bolton","gender":"male","born":282,"height":1.7,"bynames":["Bastard of Dreadfort","Monster"]}
+{"id":30,"name":"Roose","surname":"Bolton","gender":"male","born":260,"height":1.6,"bynames":[""]}
+{"id":31,"name":"Gendry","surname":"","gender":"male","born":284,"height":1.6,"bynames":[""]}
+{"id":32,"name":"Ygritte","surname":"","gender":"female","born":284,"height":1.6,"bynames":[""]}
+{"id":33,"name":"Jaqen","surname":"H'ghar","gender":"male","born":275,"height":1.8,"bynames":[""]}
+{"id":34,"name":"Eddard","surname":"Stark","gender":"male","born":263,"height":1.9,"bynames":["Ned","Lord of Winterfell","Warden of the North","Hand of the King","Wolf Lord","Protector of the Realm"]}
+{"id":35,"name":"Jeor","surname":"Mormont","gender":"male","born":241,"height":1.7,"bynames":["The Old Bear"]}
+{"id":36,"name":"High Sparrow","surname":"","gender":"male","born":255,"height":1.6,"bynames":[""]}
+{"id":37,"name":"Talisa","surname":"Maegyr","gender":"female","born":284,"height":1.6,"bynames":[""]}
+{"id":38,"name":"Ellaria Sand","surname":"Martell","gender":"female","born":270,"height":1.6,"bynames":[""]}
+{"id":39,"name":"Drogo","surname":"Khal","gender":"male","born":273,"height":2.0,"bynames":[""]}
+{"id":40,"name":"Robert","surname":"Baratheon","gender":"male","born":262,"height":1.6,"bynames":[""]}
+{"id":41,"name":"Viserys","surname":"Targaryen","gender":"male","born":276,"height":1.7,"bynames":["The Beggar King","The Cart King"]}
